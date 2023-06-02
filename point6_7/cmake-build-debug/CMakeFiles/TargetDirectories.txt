@@ -1,3 +1,0 @@
-/Users/prettycrewcut/Desktop/ HSE/OS/idz_3/point6_7/cmake-build-debug/CMakeFiles/point6_7.dir
-/Users/prettycrewcut/Desktop/ HSE/OS/idz_3/point6_7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/prettycrewcut/Desktop/ HSE/OS/idz_3/point6_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
